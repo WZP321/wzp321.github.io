@@ -16,7 +16,7 @@ My research interests encompass privacy and security challenges in decentralized
 - <span style="font-size:0.9em;"> Applied cryptography, including classical and post-quantum solutions</span>
 - <span style="font-size:0.9em;"> Decentralized AI</span>
 
-I welcome collaborations and discussions about research opportunities. Please feel free to reach out to me at <u>zhipeng.wang0x01[at]gmail.com</u>.
+I welcome collaborations and discussions about research opportunities. Please feel free to reach out to me at <u>zhipeng[dot]wang0x01[at]gmail.com</u>.
 
 News
 =======
