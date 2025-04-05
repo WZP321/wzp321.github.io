@@ -21,10 +21,13 @@ I welcome collaborations and discussions about research opportunities. Please fe
 News
 =======
 
-- <span style="color:dark">\[<b>Talk</b>\]</span> Gave a keynote speech on the convergence of blockchain technology with AI and the implications of quantum computing for blockchain at the [Game-Changing Technology in FinTech](https://www.linkedin.com/feed/update/urn:li:activity:7310702143160643586/) event, organized by UKFin+ Network.
+- <span style="color:dark">\[<b>2025-03</b>\]</span> I gave a keynote speech on the convergence of blockchain technology with AI and the implications of quantum computing for blockchain at the [Game-Changing Technology in FinTech](https://www.linkedin.com/feed/update/urn:li:activity:7310702143160643586/) event, organized by UKFin+ Network.
 
-- <span style="color:dark">\[<b>Paper</b>\]</span> [TockOwl: Asynchronous Consensus with Fault and Network Adaptability](https://eprint.iacr.org/2025/134.pdf) has been accepted at USENIX Security 2025. Congratulations to all co-authors!
+- <span style="color:dark">\[<b>2025-01</b>\]</span> Paper [TockOwl: Asynchronous Consensus with Fault and Network Adaptability](https://eprint.iacr.org/2025/134.pdf) has been accepted at USENIX Security 2025. Congratulations to all co-authors!
 
-- <span style="color:dark">\[<b>Paper</b>\]</span> [DSKE: Digital Signatures with Key Extraction](https://eprint.iacr.org/2022/1753.pdf) has been accepted at The Cryptographers' Track at RSA Conference (CT-RSA) 2025. Congratulations to all co-authors!
+- <span style="color:dark">\[<b>2025-01 </b>\]</span> Paper [DSKE: Digital Signatures with Key Extraction](https://eprint.iacr.org/2022/1753.pdf) has been accepted at The Cryptographers' Track at RSA Conference (CT-RSA) 2025. Congratulations to all co-authors!
 
-- <span style="color:dark">\[<b>Paper</b>\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform](https://arxiv.org/pdf/2412.14566) has been accepted at The 2025 ACM Web Conference Short Paper Track. Congratulations to all co-authors!
+- <span style="color:dark">\[<b>2025-01</b>\]</span> Paper [AIArena: A Blockchain-Based Decentralized AI Training Platform](https://arxiv.org/pdf/2412.14566) has been accepted at The 2025 ACM Web Conference Short Paper Track. Congratulations to all co-authors!
+
+
+
