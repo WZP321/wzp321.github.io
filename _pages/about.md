@@ -14,7 +14,7 @@ I am a Postdoctoral Research Associate in the [Department of Computing](https://
 <!-- I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/) and [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Prior to this, I earned my PhD at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Previously, I obtained my Master’s degree, advised by [Prof. Qianhong Wu](https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ), and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/). -->
 
 
-My research interests encompass privacy and security challenges in computer systems, with a particular focus on cryptography, blockchain, and their practical applications. Currently, I am exploring the following topics:
+My research interests encompass privacy and security challenges in decentralized computer systems, with a particular focus on cryptography, blockchain, and their practical applications. Currently, I am exploring the following topics:
 
 - <span style="font-size:0.9em;"> Blockchain privacy, security, consensus, and applications </span>
 - <span style="font-size:0.9em;"> Applied cryptography, including classical and post-quantum solutions</span>
