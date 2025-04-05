@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi, this is Zhipeng"
 excerpt: ""
 author_profile: true
 redirect_from: 
