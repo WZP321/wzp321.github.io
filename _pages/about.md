@@ -8,30 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained both my Master’s and Bachelor’s degrees from [Beihang University](https://ev.buaa.edu.cn/).
+I am currently a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained both my Master's and Bachelor's degrees from [Beihang University](https://ev.buaa.edu.cn/).
 
-
-<!-- I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/) and [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Prior to this, I earned my PhD at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Previously, I obtained my Master’s degree, advised by [Prof. Qianhong Wu](https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ), and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/). -->
-
-
-My research interests encompass privacy and security challenges in decentralized computer systems, with a particular focus on cryptography, blockchain, and their practical applications. Currently, I am exploring the following topics:
+My research interests encompass privacy and security challenges in decentralized and distributed computing systems, with a particular focus on cryptography, blockchain, and their practical applications. Currently, I am exploring the following topics:
 
 - <span style="font-size:0.9em;"> Blockchain privacy, security, consensus, and applications </span>
 - <span style="font-size:0.9em;"> Applied cryptography, including classical and post-quantum solutions</span>
-- <span style="font-size:0.9em;"> Decentralized Artificial Intelligence (DeAI)</span>
+- <span style="font-size:0.9em;"> Decentralized AI</span>
 
-<!-- Please feel free to reach out to me at <u>zhipeng.wang20[at]imperial.ac.uk</u> if you are interested in my research or would like to know more about my detailed CV. -->
-
+I welcome collaborations and discussions about research opportunities. Please feel free to reach out to me at <u>zhipeng.wang0x01[at]gmail.com</u>.
 
 Selected Publications
 =======
-Full publication list can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ughaML4AAAAJ&view_op=list_works&sortby=pubdate).
-
+A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ughaML4AAAAJ&view_op=list_works&sortby=pubdate).
 
 - <span style="color:dark">\[<b>USENIX Security 2025</b>\]</span> [TockOwl: Asynchronous Consensus with Fault and Network Adaptability.](https://eprint.iacr.org/2025/134.pdf)<br />
 <!-- Minghang Li, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>, **Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=Dww7dnsAAAAJ" style="color:black">Bo Qin</a>, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br />  -->
 <!-- Accepted at The 34th USENIX Security Symposium. <br />  -->
-
 
 - <span style="color:dark">\[<b>CT-RSA 2025</b>\]</span> [DSKE: Digital Signatures with Key Extraction.](https://eprint.iacr.org/2022/1753.pdf)
 <!-- <br /> **Zhipeng Wang**,  -->
