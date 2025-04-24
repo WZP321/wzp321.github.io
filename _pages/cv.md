@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computing, Imperial College London, Oct 2020 – Mar 2024
+* Ph.D in Computing, Imperial College London, Oct 2020 – May 2024
 
 * M.Sc. in System Engineering, Beihang University, Sep 2017 – Jun 2020
 
